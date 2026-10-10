@@ -6,6 +6,7 @@ Current stage: source review and brainstorming. The notes contain provisional ju
 
 ## Start here
 
+- [Document deliverable](deliverables/document.md): section headings only; to be written gradually under the user's control.
 - [Decision record](decision-record.md): substantive assignment choices and their rationale, such as pilot selection, scope and solution trade-offs.
 - [Workspace instructions](AGENTS.md): conventions for continuing the assignment.
 

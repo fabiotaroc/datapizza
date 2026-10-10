@@ -4,6 +4,7 @@
 - Use source-material/ PDFs and the assignment email as the authoritative sources. Text files under source-material/extracted/ are searchable derivatives; inspect the PDF when layout or meaning is ambiguous.
 - Preserve originals, filenames and source lineage. Keep generated previews under ignored tmp/.
 - Current scope is brainstorming and preparing the written assignment. Do not build an application or implement a pilot unless the user asks.
+- The document deliverable is deliverables/document.md. Compile it gradually, section by section, under the user's explicit control. Draft or revise only the section(s) the user asks to work on; leave all other sections untouched. Do not populate the whole deliverable from brainstorming notes or produce a complete first draft unless the user explicitly requests it. Keep brainstorming separate from the submission document.
 - Separate evidence, assumptions, checks and recommendations. Cite document and page in working notes. Do not claim undocumented DualOS capabilities are either available or absent.
 - Keep required technical classifications and table columns exactly as specified in notes/requirements.md. Explain narrowed scopes explicitly.
 - Never invent the candidate's experiences, actions, outcomes or actual time spent. Ask for missing personal evidence.
