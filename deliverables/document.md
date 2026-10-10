@@ -4,9 +4,9 @@
 
 ### Risposta all'email del cliente
 
-### Persone da coinvolgere
+#### Persone da coinvolgere
 
-### Domande prioritarie
+#### Domande prioritarie
 
 ## 2. Scelta delle priorità
 
