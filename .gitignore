@@ -1,0 +1,16 @@
+.DS_Store
+tmp/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Confidential assignment packet and detailed notes derived from it stay local.
+source-material/
+notes/requirements.md
+notes/approach.md
+
+# Raw assignment-session exports are for direct delivery, not public GitHub.
+exports/
