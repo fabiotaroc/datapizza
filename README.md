@@ -6,7 +6,7 @@ Current stage: source review and brainstorming. The notes contain provisional ju
 
 ## Start here
 
-- [Decision record](decision-record.md): consequential user choices and their rationale, kept in one document across sessions.
+- [Decision record](decision-record.md): substantive assignment choices and their rationale, such as pilot selection, scope and solution trade-offs.
 - [Workspace instructions](AGENTS.md): conventions for continuing the assignment.
 
 The local workspace also contains `source-material/` (the original email, four unchanged PDFs, searchable text and integrity manifest), `notes/requirements.md` and `notes/approach.md`. These materials are excluded from public Git history because the supplied packet is marked confidential. They remain available locally for our work.
