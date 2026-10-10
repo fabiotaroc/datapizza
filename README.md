@@ -6,6 +6,7 @@ Current stage: source review and brainstorming. The notes contain provisional ju
 
 ## Start here
 
+- [Plan for completing the document](notes/plan.md): sequential actions and decisions to work through together, one step at a time.
 - [Document deliverable](deliverables/document.md): section headings only; to be written gradually under the user's control.
 - [Decision record](decision-record.md): substantive assignment choices and their rationale, such as pilot selection, scope and solution trade-offs.
 - [Workspace instructions](AGENTS.md): conventions for continuing the assignment.
